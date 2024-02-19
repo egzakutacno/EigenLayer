@@ -1,7 +1,6 @@
 {
-"name": "<NAME>",
-"website": "<WEBSITE>",
-"description": "<DESCRIPTION>",
-"logo": "example.com/logo.png",
-"twitter": "<TWITTER>"
-}
+  "name": "Some operator",
+  "website": "https://www.example.com",
+  "description": "I operate on some data",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
